@@ -120,16 +120,16 @@ Change external port in main.tf if 8081 is already in use.
 ![Terraform Validate](./screenshots/Screenshot2.png)
 
 ### ✅ Terraform Plan
-![Terraform Plan](./screenshots/Screenshot3.png)
+![Terraform Plan](./screenshots/Screenshot 3.png)
 
 ### ✅ Terraform Apply - Part 1
-![Terraform Apply 1](./screenshots/Screenshot4.png)
+![Terraform Apply 1](./screenshots/Screenshot 4.png)
 
 ### ✅ Terraform Apply - Part 2
-![Terraform Apply 2](./screenshots/screenshot5.png)
+![Terraform Apply 2](./screenshots/screenshot 5.png)
 
 ### 🌐 Nginx Running in Browser
-![Nginx Output](./screenshots/Screenshot6.png)
+![Nginx Output](./screenshots/Screenshot 6.png)
 ###✅Terraform destroy part 1
 ![Terraform  destroy(./screenshots/screenshot7.png)
 ###✅Terraform destroy part 2
