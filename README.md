@@ -56,7 +56,7 @@ Task-3-Iac-with-terraform/
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/ae8d722d0f22699c9caf6d6703e8ec45825ed827/screenshot6a.png)
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/0c2c9799aa9c074c09a3d0190da6761348e94a24/screenshot6b.png)
 
-###  🌐 Nginx Running in Browser
+###  🌐Docker container Nginx Running 
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/7f8af1854a8ba0f6647139c6362a73a20070f9cb/screenshot6.png)
 ## ✅ terraform destroy
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/d3e64a281cda37a0a23847ad5a019ff13e2f7cea/screenshot7.png)
