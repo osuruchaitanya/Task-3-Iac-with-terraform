@@ -95,7 +95,8 @@ You should see the Nginx Welcome Page.
 To stop and delete the container and image:
 
 terraform destroy
-
+## 📸Screenshots
+![image alt](https://github.com/osuruchaitanya/cfdf/blob/aa542d28213d44b688284d77fc7b745aa79d7945/screenshot4.png)
 
 ---
 
@@ -108,7 +109,7 @@ Ensure Docker Desktop is running before executing Terraform.
 Change external port in main.tf if 8081 is already in use.
 ## 📸 Screenshots
 ## 📸 Screenshots
-![image alt](https://github.com/osuruchaitanya/cfdf/blob/aa542d28213d44b688284d77fc7b745aa79d7945/screenshot4.png)
+
 
 
 
