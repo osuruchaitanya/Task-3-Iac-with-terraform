@@ -114,6 +114,8 @@ Change external port in main.tf if 8081 is already in use.
 ## 📸 Screenshots
 
 ### ✅ Terraform Init
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/13f01d40-d806-4ed0-8697-29f4805ae427" />
 ![Terraform Init](./screenshots/screenshot1.png)
 
 ### ✅ Terraform Validate
