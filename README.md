@@ -9,17 +9,31 @@ Use *Terraform* to provision and manage infrastructure locally by deploying an *
 ## 📁 Project Structure
 Task-3-Iac-with-terraform/
 │
-├── main.tf                 # Terraform configuration file
-├── README.md               # Project documentation
-├── screenshot1.png         # Terraform init
-├── screenshot2.png         # Terraform validate
-├── screenshot3.png         # Terraform plan
-├── screenshot4.png         # Terraform apply (part 1)
-├── screenshot5.png         # Terraform apply (part 2)
-├── screenshot6.png         # Nginx running in browser
-├── screenshot7.png         # Terraform destroy (part 1)
-└── screenshot8.png         # Terraform destroy (part 2)
-                               
+├── main.tf                
+├── README.md              
+├──  8 screenshots
+        
+
+###  WHAT  I  DID
+## 🧾 What I Did
+
+In this project (Task 3 - IaC with Terraform), I implemented a complete end-to-end infrastructure automation workflow using *Terraform*. Here's a breakdown of what I accomplished:
+
+- ✅ *Initialized a new GitHub repository* named Task-3-Iac-with-terraform to store all project files and documentation.
+- ✅ **Created a main.tf Terraform configuration file** to provision an Nginx server on a local virtual machine or compatible infrastructure.
+- ✅ *Used core Terraform commands* to manage the infrastructure lifecycle:
+  - terraform init to initialize the working directory
+  - terraform validate to validate syntax and structure
+  - terraform plan to preview changes before deployment
+  - terraform apply to provision the Nginx server
+  - terraform destroy to decommission the infrastructure
+- ✅ *Captured screenshots* of each step (init, validate, plan, apply, Nginx verification, and destroy) to visually document the process.
+- ✅ *Uploaded all 8 screenshots* to the repository and ensured they are displayed properly in the README.md.
+- ✅ *Verified Nginx server accessibility* by accessing it through a web browser after successful deployment.
+- ✅ **Wrote a detailed README.md file** explaining the project, tools used, step-by-step actions, and results, with properly embedded screenshots.
+
+This project reflects the core concepts of *Infrastructure as Code*, automation, version control, and documentation — all implemented using a single Terraform file and GitHub.
+ 
 ## ⚙ Tools I Used
 
 - [Terraform](https://www.terraform.io/) – Infrastructure as Code
