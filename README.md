@@ -1,10 +1,3 @@
-Here’s a complete README.md file tailored for your Task 3: IAC with Terraform and Docker (No Cloud, using Nginx) setup:
-
-
----
-
-✅ README.md
-
 # Task 3 - Infrastructure as Code (IaC) with Terraform and Docker (Local)
 
 ## 📌 Objective
