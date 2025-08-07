@@ -36,3 +36,5 @@ task-3-iac-with-terraform/ ├── main.tf              # Terraform configurat
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/071c33c58b3940892d01071891c92cec4b2488e0/screenshot5.png)
 ##  Nginx Running in Browser
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/7f8af1854a8ba0f6647139c6362a73a20070f9cb/screenshot6.png)
+## terraform destroy
+![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/d3e64a281cda37a0a23847ad5a019ff13e2f7cea/screenshot7.png)
