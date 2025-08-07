@@ -129,7 +129,3 @@ part 3: plan summary
 ### ✅ Terraform Apply Output
 ![Terraform Apply](./screenshots/screenshot7.png)
 ![Terraform Apply](./screenshots/screenshot8.png)
-
-- Add additional screenshots or instructions?
-
-Let me know!
