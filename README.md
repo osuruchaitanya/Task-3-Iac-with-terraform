@@ -119,11 +119,11 @@ Terraform validate output
 ![Terraform validate](./screenshots/screenshot2.png)
 ###Terraform plan output
 part  1: resource preview
-![Terraform plan](./screenshots/screenshot3.png)
+![Terraform plan](./screenshots/screenshot 3.png)
 part 2: docker image and container preview
-![Terraform plan](./screenshots/screenshot4.png)
+![Terraform plan](./screenshots/screenshot 4.png)
 part 3: plan summary
-![Terraform plan](./screenshots/screenshot5.png)
+![Terraform plan](./screenshots/screenshot 5.png)
 !# 🌐 Nginx Running in Browser
 ![Nginx Output](./screenshots/screenshot 6.png)
 ### ✅ Terraform Apply Output
