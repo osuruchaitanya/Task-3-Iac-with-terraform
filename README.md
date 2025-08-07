@@ -115,7 +115,22 @@ Change external port in main.tf if 8081 is already in use.
 
 ### ✅ Terraform Init
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/13f01d40-d806-4ed0-8697-29f4805ae427" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b04b0c30-e867-4336-9c3a-f69a25bd65fc" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3fb98962-aa1a-4dc5-8a4c-ba907d42946d" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a303a5e7-c855-42f1-87bb-ef146a61224a" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/4eda37cf-e641-464e-9174-6ad281a0391f" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/14a1470f-0d01-40a8-bd57-7af782ca84d1" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/50383768-91c0-4eb4-84b5-ae03625f4a04" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5b20b696-0cf9-4e86-832d-05b1a7110cf8" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8047bd9b-53ea-4482-adfb-79d747754d82" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/942680f5-2d01-494e-ab94-32d7274eb189" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/83f345cf-c7f8-428d-b9f7-3b0a8aa7aaac" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/bd5bdde2-1a79-48c1-97e0-17d2081698a1" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/7c483aa4-91b4-4290-8194-2a2fb069cdf0" /><img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/13f01d40-d806-4ed0-8697-29f4805ae427" />
 ![Terraform Init](./screenshots/screenshot1.png)
 
 ### ✅ Terraform Validate
