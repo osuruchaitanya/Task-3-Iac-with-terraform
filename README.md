@@ -107,11 +107,28 @@ Ensure Docker Desktop is running before executing Terraform.
 
 Change external port in main.tf if 8081 is already in use.
 ## 📸 Screenshots
-![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/ab81f78c41d975f7a84af168977580889eb6796f/screenshot1.png)
-![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/87711a492bd6f86dcf6b4b2d372e69901cc912ba/screenshot2.png)
-![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/20503ea3c86ca04a5852a7238e9105789daf28ca/screenshot3.png)
-![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/ee5c5d759f06a8321e5edb7d1be46839e7411762/screenshot4.png)
-![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/b121103412fe6e58faadb270585ba956be18171c/screenshot5.png)
-![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/0e2958a14312bea30d10fce566868a6d5acabf42/screenshot6.png)
-![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/75ed6b579e486ffd1c126345a7ae1ebb18aadbaf/screenshot7.png)
-![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/352524d8f59d821a4002b55edbb7e09caa1eb3ea/screenshot8.png)
+## 📸 Screenshots
+
+### ✅ Terraform Init
+![Terraform Init](./screenshot1.png)
+
+### ✅ Terraform Validate
+![Terraform Validate](./screenshot2.png)
+
+### ✅ Terraform Plan
+![Terraform Plan](./screenshot3.png)
+
+### ✅ Terraform Apply - Part 1
+![Terraform Apply 1](./screenshot4.png)
+
+### ✅ Terraform Apply - Part 2
+![Terraform Apply 2](./screenshot5.png)
+
+### 🌐 Nginx Running in Browser
+![Nginx Output](./screenshot6.png)
+
+### ✅ Terraform Destroy - Part 1
+![Terraform Destroy 1](./screenshot7.png)
+
+### ✅ Terraform Destroy - Part 2
+![Terraform Destroy 2](./screenshot8.png)
