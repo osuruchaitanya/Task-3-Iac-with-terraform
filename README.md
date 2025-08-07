@@ -7,11 +7,19 @@ Use *Terraform* to provision and manage infrastructure locally by deploying an *
 --
 
 ## 📁 Project Structure
-
-task-3-iac-with-terraform/ ├── main.tf              # Terraform configuration ├── terraform.tfstate    # Terraform state file (auto-generated after apply) ├── .terraform/          # Terraform plugin files (auto-generated) └── README.md            # Project documentation
-
----
-
+Task-3-Iac-with-terraform/
+│
+├── main.tf                 # Terraform configuration file
+├── README.md               # Project documentation
+├── screenshot1.png         # Terraform init
+├── screenshot2.png         # Terraform validate
+├── screenshot3.png         # Terraform plan
+├── screenshot4.png         # Terraform apply (part 1)
+├── screenshot5.png         # Terraform apply (part 2)
+├── screenshot6.png         # Nginx running in browser
+├── screenshot7.png         # Terraform destroy (part 1)
+└── screenshot8.png         # Terraform destroy (part 2)
+                               
 ## ⚙ Tools I Used
 
 - [Terraform](https://www.terraform.io/) – Infrastructure as Code
@@ -37,8 +45,10 @@ task-3-iac-with-terraform/ ├── main.tf              # Terraform configurat
 ## ✅ Tterraform destroy
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/d3e64a281cda37a0a23847ad5a019ff13e2f7cea/screenshot7.png)
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/b8816dbfd50ade1d1cdb09f9b04196ad3d7c838c/screenshot8.png)
-📌 Notes
-commands :
+
+
+ ## 🔧 Terraform Commands Used
+''''bash
 terraform init
 terraform validate
 terraform plan
