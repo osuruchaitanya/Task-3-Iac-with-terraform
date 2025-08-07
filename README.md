@@ -46,15 +46,15 @@ Task-3-Iac-with-terraform/
 
 ### ✅ terraform init
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/f858b4ca1b34eb8d23771ec5b3d57c61fae180ae/screenshot1.png)
-### ✅ Tterraform validate
+### ✅ terraform validate
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/2709c2bee5d7e0b4e61a1a3e8d2d18403de53a81/screenshot2.png)
-# ## ✅ Tterraform plan 
+# ## ✅ terraform plan 
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/eee5b925558109f5bed83a896421e4bd07bd422f/screenshot3.png)
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/cd50b140335c56b8f4dbe86de5d42d5f84e79ae2/screenshot4.png)
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/071c33c58b3940892d01071891c92cec4b2488e0/screenshot5.png)
 ###  🌐 Nginx Running in Browser
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/7f8af1854a8ba0f6647139c6362a73a20070f9cb/screenshot6.png)
-## ✅ Tterraform destroy
+## ✅ terraform destroy
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/d3e64a281cda37a0a23847ad5a019ff13e2f7cea/screenshot7.png)
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/b8816dbfd50ade1d1cdb09f9b04196ad3d7c838c/screenshot8.png)
 
