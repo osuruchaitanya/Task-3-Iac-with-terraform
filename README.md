@@ -112,3 +112,4 @@ Change external port in main.tf if 8081 is already in use.
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/20503ea3c86ca04a5852a7238e9105789daf28ca/screenshot3.png)
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/ee5c5d759f06a8321e5edb7d1be46839e7411762/screenshot4.png)
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/b121103412fe6e58faadb270585ba956be18171c/screenshot5.png)
+![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/0e2958a14312bea30d10fce566868a6d5acabf42/screenshot6.png)
