@@ -28,3 +28,4 @@ task-3-iac-with-terraform/ ├── main.tf              # Terraform configurat
 
 #Terraform Init
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/f858b4ca1b34eb8d23771ec5b3d57c61fae180ae/screenshot1.png)
+![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/2709c2bee5d7e0b4e61a1a3e8d2d18403de53a81/screenshot2.png)
