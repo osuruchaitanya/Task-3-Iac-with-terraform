@@ -107,8 +107,5 @@ Ensure Docker Desktop is running before executing Terraform.
 
 Change external port in main.tf if 8081 is already in use.
 
-### ✅ Terraform Destroy - Part 1
-![Terraform Destroy 1](./screenshots/screenshot7.png)
-
-### ✅ Terraform Destroy - Part 2
-![Terraform Destroy 2](./screenshots/Screenshot8.png)
+### ✅ Terraform init
+![Terraform INIT](./screenshots/screenshot1.png)
