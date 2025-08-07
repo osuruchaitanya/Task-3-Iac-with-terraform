@@ -112,24 +112,27 @@ Change external port in main.tf if 8081 is already in use.
 ---
 
 ## 📸 Screenshots
-Terraform init
-![Terraform Init](./screenshots/screenshot1.png)
-![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/main/screenshot1.png?raw=true)
-### ✅ Terraform Validate
-![Terraform Validate](./screenshots/Screenshot2.png)
 
-### ✅ Terraform Plan
-![Terraform Plan](./screenshots/Screenshot 3.png)
+### ✅ Terraform Init  
+![Terraform Init](./screenshot1.png)
 
-### ✅ Terraform Apply - Part 1
-![Terraform Apply 1](./screenshots/Screenshot 4.png)
+### ✅ Terraform Validate  
+![Terraform Validate](./screenshot2.png)
 
-### ✅ Terraform Apply - Part 2
-![Terraform Apply 2](./screenshots/screenshot 5.png)
+### ✅ Terraform Plan  
+![Terraform Plan](./screenshot3.png)
 
-### 🌐 Nginx Running in Browser
-![Nginx Output](./screenshots/Screenshot 6.png)
-###✅Terraform destroy part 1
-![Terraform  destroy(./screenshots/screenshot7.png)
-###✅Terraform destroy part 2
-![Terraform  destroy(./screenshots/Screenshot8.png)
+### ⚙ Terraform Apply - Part 1  
+![Terraform Apply 1](./screenshot4.png)
+
+### ⚙ Terraform Apply - Part 2  
+![Terraform Apply 2](./screenshot5.png)
+
+### 🌐 Nginx Running in Browser  
+![Nginx Output](./screenshot6.png)
+
+### ❌ Terraform Destroy - Part 1  
+![Terraform Destroy 1](./screenshot7.png)
+
+### ❌ Terraform Destroy - Part 2  
+![Terraform Destroy 2](./screenshot8.png)
