@@ -65,4 +65,35 @@ terraform init
 terraform validate
 terraform plan
 terraform apply
-terraform  destroy
+terraform  destroy## # 🚀 Task 3: Terraform Project – Nginx Deployment
+
+This project demonstrates how to use *Terraform* to deploy an *Nginx server* using Infrastructure as Code (IaC).  
+It includes the full Terraform workflow with screenshots.
+
+---
+
+## 📁 Files
+
+- main.tf – Terraform configuration file to deploy Nginx
+- screenshot1.png to screenshot8.png – Step-by-step screenshots
+
+---
+
+## 🔧 Terraform Commands Used
+
+ ```bash
+
+- terraform init  
+  → Initializes the working directory and downloads required provider plugins.
+
+- terraform validate  
+  → Checks whether the configuration syntax is valid and internally consistent.
+
+- terraform plan  
+  → Creates an execution plan, showing what actions Terraform will take before making any changes.
+
+- terraform apply  
+  → Applies the changes required to reach the desired infrastructure state as defined in main.tf.
+
+- terraform destroy  
+  → Safely removes all resources created by Terraform and cleans up the environment.
