@@ -5,17 +5,15 @@
 Use *Terraform* to provision and manage infrastructure locally by deploying an *Nginx container* using *Docker*, without relying on any cloud provider.
 
 --
+## ⚙ Tools I Used
 
-## 📁 Project Structure
-Task-3-Iac-with-terraform/
-│
-├── main.tf                
-├── README.md              
-├──  8 screenshots
-        
+- [Terraform](https://www.terraform.io/) – Infrastructure as Code
+- [Docker](https://www.docker.com/) – Containerization
+- [Nginx](https://hub.docker.com/_/nginx) – Web Server image
+- Local Windows/Linux machine (no cloud)
 
-###  WHAT  I  DID
-## 🧾 What I Did
+
+##  WHAT  I  DID
 
 In this project (Task 3 - IaC with Terraform), I implemented a complete end-to-end infrastructure automation workflow using *Terraform*. Here's a breakdown of what I accomplished:
 
@@ -34,13 +32,13 @@ In this project (Task 3 - IaC with Terraform), I implemented a complete end-to-e
 
 This project reflects the core concepts of *Infrastructure as Code*, automation, version control, and documentation — all implemented using a single Terraform file and GitHub.
  
-## ⚙ Tools I Used
-
-- [Terraform](https://www.terraform.io/) – Infrastructure as Code
-- [Docker](https://www.docker.com/) – Containerization
-- [Nginx](https://hub.docker.com/_/nginx) – Web Server image
-- Local Windows/Linux machine (no cloud)
-
+---
+# 📁 Project Structure
+Task-3-Iac-with-terraform/
+│
+├── main.tf                
+├── README.md              
+├──  8 screenshots
 ---
 
 #### 📸 Screenshots
