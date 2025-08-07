@@ -106,6 +106,3 @@ This project is fully local. No cloud or remote infrastructure is used.
 Ensure Docker Desktop is running before executing Terraform.
 
 Change external port in main.tf if 8081 is already in use.
-
-### ✅ Terraform init
-![Terraform INIT](./screenshots/screenshot1.png)
