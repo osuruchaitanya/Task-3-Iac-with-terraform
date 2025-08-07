@@ -111,21 +111,28 @@ Change external port in main.tf if 8081 is already in use.
 
 ---
 
-📸 Screenshot Example
 ## 📸 Screenshots
- ## Terraform init output
-![Terraform init](./screenshots/screenshot1.png)
-Terraform validate output
-![Terraform validate](./screenshots/Screenshot2.png)
-###Terraform plan output
-part  1: resource preview
-![Terraform plan](./screenshots/Screenshot 3.png)
-part 2: docker image and container preview
-![Terraform plan](./screenshots/Screenshot 4.png)
-part 3: plan summary
-![Terraform plan](./screenshots/screenshot 5.png)
-!# 🌐 Nginx Running in Browser
-![Nginx Output](./screenshots/Screenshot 6.png)
-### ✅ Terraform Apply Output
-![Terraform Apply](./screenshots/screenshot7.png)
-![Terraform Apply](./screenshots/Screenshot8.png)
+
+### ✅ Terraform Init
+![Terraform Init](./screenshots/screenshot1.png)
+
+### ✅ Terraform Validate
+![Terraform Validate](./screenshots/screenshot2.png)
+
+### ✅ Terraform Plan
+![Terraform Plan](./screenshots/screenshot3.png)
+
+### ✅ Terraform Apply - Part 1
+![Terraform Apply 1](./screenshots/screenshot4.png)
+
+### ✅ Terraform Apply - Part 2
+![Terraform Apply 2](./screenshots/screenshot5.png)
+
+### ✅ Terraform Apply - Final Output
+![Terraform Apply Final](./screenshots/screenshot6.png)
+
+### 🌐 Nginx Running in Browser
+![Nginx Output](./screenshots/screenshot7.png)
+
+### 📂 Project Structure
+![Structure](./screenshots/screenshot8.png)
