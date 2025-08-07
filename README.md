@@ -4,7 +4,7 @@
 
 Use *Terraform* to provision and manage infrastructure locally by deploying an *Nginx container* using *Docker*, without relying on any cloud provider.
 
----
+--
 
 ## 📁 Project Structure
 
