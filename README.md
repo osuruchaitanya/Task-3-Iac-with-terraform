@@ -33,3 +33,4 @@ task-3-iac-with-terraform/ ├── main.tf              # Terraform configurat
  ## terraform plan 
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/eee5b925558109f5bed83a896421e4bd07bd422f/screenshot3.png)
 ![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/cd50b140335c56b8f4dbe86de5d42d5f84e79ae2/screenshot4.png)
+![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/071c33c58b3940892d01071891c92cec4b2488e0/screenshot5.png)
