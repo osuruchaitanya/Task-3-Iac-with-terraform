@@ -112,7 +112,7 @@ Change external port in main.tf if 8081 is already in use.
 ---
 
 ## 📸 Screenshots
-Attach the image:![Terraform!]https://github.com/user-attachments/assets/6c1251e3-3213-415a-81bd-d419810756f4)
+Attach the image:![image alt](https://github.com/osuruchaitanya/Task-3-Iac-with-terraform/blob/a28bc78cee48da2bba898e6280a8f2c320a13631/screenshot1.png)
 ### ✅ Terraform Init  
 ![Terraform Init](./screenshot1.png)
 
