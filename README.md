@@ -71,12 +71,6 @@ This project demonstrates how to use *Terraform* to deploy an *Nginx server* usi
 It includes the full Terraform workflow with screenshots.
 
 ---
-
-## 📁 Files
-
-- main.tf – Terraform configuration file to deploy Nginx
-- screenshot1.png to screenshot8.png – Step-by-step screenshots
-
 ---
 
 ## 🔧 Terraform Commands Used
